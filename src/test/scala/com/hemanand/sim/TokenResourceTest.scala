@@ -1,4 +1,4 @@
-package com.ratedpeple.sim
+package com.hemanand.sim
 
 import io.gatling.core.Predef._
 import io.gatling.core.structure.ScenarioBuilder

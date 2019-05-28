@@ -98,7 +98,7 @@
                 <configuration>
                     <runMultipleSimulations>true</runMultipleSimulations>
                     <includes>
-                        <param>com.ratedpeple.sim.TokenResourceTest</param>
+                        <param>com.hemanand.sim.TokenResourceTest</param>
                     </includes>
                 </configuration>
                 <executions>

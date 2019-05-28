@@ -1,4 +1,4 @@
-package com.ratedpeple
+package com.hemanand
 
 object SingleGatlingRunner {
 

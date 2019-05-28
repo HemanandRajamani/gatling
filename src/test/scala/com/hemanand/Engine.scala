@@ -1,4 +1,4 @@
-package com.ratedpeple
+package com.hemanand
 
 import io.gatling.app.Gatling
 import io.gatling.core.config.GatlingPropertiesBuilder
